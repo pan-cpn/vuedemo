@@ -1,0 +1,26 @@
+export const tarbarData = [
+    {
+        text:'首页',
+        imageHref:'/tarbar/main.png',
+        active_imageHref:'/tarbar/main-active.png',
+        path:'/main'
+    },
+    {
+        text:'更多',
+        imageHref:'/tarbar/more.png',
+        active_imageHref:'/tarbar/more-active.png',
+        path:'/more'
+    },
+    {
+        text:'分类',
+        imageHref:'/tarbar/cate.png',
+        active_imageHref:'/tarbar/cate-active.png',
+        path:'/cate'
+    },
+    {
+        text:'我的',
+        imageHref:'/tarbar/user.png',
+        active_imageHref:'/tarbar/user-active.png',
+        path:'/user'
+    }
+]
